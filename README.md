@@ -27,11 +27,7 @@ Or
 python generate.py --text "Ton texte ici est <mask> et fun."
 ```
 
-Or
-
-```bash
-python generate.py -t "Ton texte ici est <mask> et fun."
-```
+See all the available options by running `python generate.py -h`.
 
 > If `<mask>` is at the end of the text, you can omit it:
 >
